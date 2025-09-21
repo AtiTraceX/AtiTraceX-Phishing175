@@ -14,7 +14,6 @@ I Don't Support to any illegal Activity.
    1) Local Host
    2) Cloudflared(Manual)
       .........
-
    ## 🧰 Installation (Termux)
 
 ```bash
@@ -25,7 +24,7 @@ pkg update && pkg upgrade -y
 pkg install git php -y
 
 # Step 3: Clone the AtiTrace tool
-git clone https://github.com/aliha430/AtiTrace
+git clone https://github.com/AtiTraceX/AtiTrace
 
 # Step 4: Enter the folder
 cd AtiTrace
@@ -34,6 +33,6 @@ cd AtiTrace
 chmod +x atrace.sh
 
 # Step 6: Run the tool
-./
+./atrace.sh
 
 
