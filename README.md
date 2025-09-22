@@ -24,7 +24,7 @@ pkg update && pkg upgrade -y
 pkg install git php -y
 
 # Step 3: Clone the AtiTrace tool
-git clone https://github.com/AtiTraceX/AtiTrace
+git clone https://github.com/AtiTraceX/AtiTraceX.git
 
 # Step 4: Enter the folder
 cd AtiTrace
