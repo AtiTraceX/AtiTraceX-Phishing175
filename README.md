@@ -24,10 +24,10 @@ pkg update && pkg upgrade -y
 pkg install git php -y
 
 # Step 3: Clone the AtiTrace tool
-git clone https://github.com/AtiTraceX/AtiTraceX.git
+git clone https://github.com/AtiTraceX/AtiTraceX-Phishing175.git
 
 # Step 4: Enter the folder
-cd AtiTrace
+cd AtiTrace-AtiTraceX-Phishing175
 
 # Step 5: Give script permission to run
 chmod +x atrace.sh
